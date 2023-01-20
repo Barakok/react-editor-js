@@ -1,6 +1,6 @@
 {
   "author": "Jungwoo An <o1o9814@naver.com>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "release": "release-it",
     "build": "rollup --config",
