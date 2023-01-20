@@ -7,10 +7,10 @@
   "types": "./dist/server/src/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jungwoo-An/react-editor-js.git"
+    "url": "https://github.com/Barakok/react-editor-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Jungwoo-An/react-editor-js/issues"
+    "url": "https://github.com/Barakok/react-editor-js/issues"
   },
   "peerDependencies": {
     "@editorjs/editorjs": "*",
