@@ -1,5 +1,4 @@
 node_modules
 .rpt2_cache
 .vscode
-dist
 packages/**/README.md
