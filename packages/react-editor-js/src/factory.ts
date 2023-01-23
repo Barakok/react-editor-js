@@ -2,7 +2,7 @@ import { WrapperProps } from '@react-editor-js/core'
 
 export function createReactEditorJS(): (props: WrapperProps) => JSX.Element {
   if (typeof window !== 'undefined') {
-    const Component = require('@react-editor-js/client')
+    const Component = require('react-editor-js-client-fix')
     return Component.default || Component
   } else {
     const Component = require('@react-editor-js/server')
